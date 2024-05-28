@@ -1,6 +1,6 @@
 <template>
   <div class="informasi-rinci-rt">
-    <h3>Informasi Rinci RT</h3>
+    <h3>by @syifanurmedina</h3>
     <button @click="sendPejabatData('Pak Budi')">Pilih RT 1</button>
     <button @click="sendPejabatData('Pak Ratno')">Pilih RT 2</button>
     <button @click="sendPejabatData('Pak Jamal')">Pilih RT 3</button>
